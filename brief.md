@@ -70,7 +70,7 @@ Avsnitten heter alltid så här, i den här ordningen. Antalet punkter styrs av 
 
 - I korthet: två korta stycken om periodens viktigaste signaler och vad de betyder för svenska fotografer
 - Aktuellt: det som har hänt under perioden, 3 till 6 punkter
-- Längre linjer: förändringar som pågår över flera månader och har fått ny näring under perioden, 1 till 4 punkter
+- Över tid: förändringar som pågår över flera månader och har fått ny näring under perioden, 1 till 4 punkter
 - Möjligheter: konkreta affärsmöjligheter som följer av periodens signaler, 1 till 3 punkter
 - Arbetsflöde: teknik och metoder i det praktiska arbetet, 1 till 3 punkter
 - Överskattat: saker som får mer uppmärksamhet än de förtjänar, rubriken överstruken, 0 till 2 punkter
