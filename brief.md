@@ -21,6 +21,23 @@ Lupp Studio. Inga personnamn i byline eller text.
 - Publik och varumärken: reaktioner på AI-bilder, påståenden om hantverk
 - Branschhändelser: SFF, Fotografiska, Stadsmuseet, F3 Foto, Svenska Fotobokspriset, Årets Bild, utbildningar
 
+## Yrkesinriktningar
+Läsarna arbetar inom många olika inriktningar. Varje upplaga ska spegla flera av dem, så att det inte bara blir AI och upphovsrätt. Sök aktivt efter signaler inom minst fem inriktningar per upplaga och växla mellan dem från månad till månad. Ange gärna i texten vilka inriktningar en punkt berör mest.
+
+- Reklamfotografi: byråernas affärsmodeller, AI i kampanjer, produktionsbudgetar, användningsrätter
+- Produktfotografi: e-handel, AI-genererade produktbilder och miljöbilder, packshot-automatisering
+- Företagsfotografi: porträtt och reportage för företag, hållbarhetsredovisning, intern kommunikation, AI-porträtt
+- Bostads- och fastighetsfotografi: bostadsmarknaden, mäklarbranschen, virtuell möblering, regler för bildredigering i annonser
+- Nyhets- och bildjournalistik: mediehusens ekonomi, frilansvillkor, pressetik, bildäkthet, Journalistförbundet
+- Dokumentärfotografi: finansiering, stipendier, fotoböcker, utställningar
+- Sportfotografi: ackreditering, rättigheter till evenemang, bildbyråavtal
+- Porträttfotografi: AI-porträtt och appar, privatkundsmarknaden
+- Familje- och bröllopsfotografi: privatkundsmarknaden, prisläge, konsumenträtt, avtal och GDPR
+- Konstfotografi: stipendier, Konstnärsnämnden, Kulturrådet, KRO, MU-avtalet, gallerier och mässor
+- Natur- och djurfotografi: tävlingar och AI-regler, tillstånd och tillträde, bildbyråer
+- Modefotografi: modehusens AI-modeller och digitala tvillingar, svenska modeföretag
+- Matfotografi: restaurang och livsmedel, förpackningar, AI-genererade matbilder
+
 ## Primärkällor att kolla varje gång
 sfoto.se, kamerabild.se, fotosidan.se, Resumé, Dagens Media, Realtid, SVT Kultur, regeringen.se, riksdagen.se, curia.europa.eu, copyswede.se, bildupphovsratt.se, prv.se, boverket.se, IRM, PetaPixel, DIY Photography, Fstoppers, c2pa.org, iptc.org
 
