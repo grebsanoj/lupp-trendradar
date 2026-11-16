@@ -60,7 +60,7 @@ En punkt ska uppfylla minst 1, 2 och 4.
 ## Ämnesetiketter
 Varje punkt (### rubrik) får en rad direkt under rubriken: `Ämne: X`, eller högst två ämnen: `Ämne: Upphovsrätt, Konst`. Ämnet visas i högerkolumnen på lupp.se. Använd i första hand de här orden, så att etiketterna blir konsekventa från månad till månad:
 
-- Övergripande: Upphovsrätt, Ersättning, AI och regler, Äkthet, Plattformar, Bildbyråer, Media, Teknik, Efterbehandling, Bransch
+- Övergripande: Upphovsrätt, Ersättning, AI och regler, Ursprung, Plattformar, Bildbyråer, Media, Teknik, Efterbehandling, Bransch
 - Inriktningar: Reklam, Produkt, Företag, Bostad, Nyhet, Dokumentär, Sport, Porträtt, Bröllop, Konst, Natur, Mode, Mat, Drönare
 
 Skriv inga värderande etiketter som Accelererar eller Framväxande. Hur viktig en punkt är ska framgå av texten.
