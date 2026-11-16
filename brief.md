@@ -37,6 +37,7 @@ Läsarna arbetar inom många olika inriktningar. Varje upplaga ska spegla flera 
 - Natur- och djurfotografi: tävlingar och AI-regler, tillstånd och tillträde, bildbyråer
 - Modefotografi: modehusens AI-modeller och digitala tvillingar, svenska modeföretag
 - Matfotografi: restaurang och livsmedel, förpackningar, AI-genererade matbilder
+- Drönarfotografi: Transportstyrelsen och EU:s drönarregler (EASA), behörigheter och kategorier, flygförbud och skyddsobjekt, regler för spridning av flygbilder, försäkring, nya drönare och sensorer
 
 ## Primärkällor att kolla varje gång
 sfoto.se, kamerabild.se, fotosidan.se, Resumé, Dagens Media, Realtid, SVT Kultur, regeringen.se, riksdagen.se, curia.europa.eu, copyswede.se, bildupphovsratt.se, prv.se, boverket.se, IRM, PetaPixel, DIY Photography, Fstoppers, c2pa.org, iptc.org
