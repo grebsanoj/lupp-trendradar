@@ -57,14 +57,26 @@ En punkt ska uppfylla minst 1, 2 och 4.
 - Ämnen från förra upplagan utan ny utveckling
 - Leverantörers egna effektsiffror som fakta (får nämnas, men flaggas)
 
-## Statusetiketter
-- Accelererar: flera signaler under perioden, tydlig riktning
-- Framväxande: tidig signal, värd att bevaka
-- Pågående: känd fråga med ny utveckling
-- Överhypad: mer uppmärksamhet än faktisk påverkan
+## Ämnesetiketter
+Varje punkt (### rubrik) får en rad direkt under rubriken: `Ämne: X`, eller högst två ämnen: `Ämne: Upphovsrätt, Konst`. Ämnet visas i högerkolumnen på lupp.se. Använd i första hand de här orden, så att etiketterna blir konsekventa från månad till månad:
+
+- Övergripande: Upphovsrätt, Ersättning, AI och regler, Ursprung, Plattformar, Bildbyråer, Media, Teknik, Efterbehandling, Bransch
+- Inriktningar: Reklam, Produkt, Företag, Bostad, Nyhet, Dokumentär, Sport, Porträtt, Bröllop, Konst, Natur, Mode, Mat, Drönare
+
+Skriv inga värderande etiketter som Accelererar eller Framväxande. Hur viktig en punkt är ska framgå av texten.
 
 ## Struktur
-Läget i korthet, fem snabbt stigande ämnen, fem bestående skiften, tre affärsmöjligheter, tre produktionstekniker, två överhypade ämnen (rubrik överstruken), kalender, källor, om metoden.
+Avsnitten heter alltid så här, i den här ordningen. Antalet punkter styrs av vad som faktiskt har hänt, inte av en kvot. Hellre färre och bättre punkter än utfyllnad. Ett avsnitt utan något som klarar urvalskriterierna utelämnas, utom I korthet och Aktuellt som alltid finns med.
+
+- I korthet: två korta stycken om periodens viktigaste signaler och vad de betyder för svenska fotografer
+- Aktuellt: det som har hänt under perioden, 3 till 6 punkter
+- Över tid: förändringar som pågår över flera månader och har fått ny näring under perioden, 1 till 4 punkter
+- Möjligheter: konkreta affärsmöjligheter som följer av periodens signaler, 1 till 3 punkter
+- Arbetsflöde: teknik och metoder i det praktiska arbetet, 1 till 3 punkter
+- Överskattat: saker som får mer uppmärksamhet än de förtjänar, rubriken överstruken, 0 till 2 punkter
+- Kalender, Källor, Om metoden
+
+Punktrubriker (###) skrivs utan nummer.
 
 ## Kontinuitet
 Läs föregående upplaga först. Bestående skiften ska spegla ämnen som återkommer över flera upplagor. Följ upp tidigare punkter när något nytt har hänt.
